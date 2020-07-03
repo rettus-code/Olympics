@@ -1,0 +1,22 @@
+.jumbotron {
+    background-color: mediumblue;
+    background-image: url(cover.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+body {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+.lead {
+    color: goldenrod;
+}
+.display-4 {
+    color: goldenrod;
+}
+img {
+    border-style: groove;
+    border-color: blue;
+    border-width: 4px;
+    margin-bottom: 6px;
+}
